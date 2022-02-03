@@ -17,6 +17,7 @@ height: 120px;
 background-repeat: no-repeat;
 background-size: 100px 200px;
 background-position:10px -15px;
+position: absolute;
 }
 video{margin: auto;
 margin:200px 200px;
